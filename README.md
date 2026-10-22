@@ -15,14 +15,27 @@ Through academic, professional, and personal projects, I explore how programming
 ## 🚀 Areas of Interest
 
   -🚆 Railway Engineering & Transportation Systems
+  
   -📊 Data Analytics & Visualization
+  
   -🐍 Python Programming & Data Science
+  
   -🌍 Geospatial Analysis & GIS
+  
   -⚙️ Numerical Modelling & Engineering Simulations
+  
   -🤖 Artificial Intelligence & Machine Learning
+  
   -🛠️ Technical Background
 
-Programming: Python · MATLAB · R
+## 🤖 Programming
+
+  -Python 
+  -MATLAB 
+  -R
+  -JavaScript
+  -AutoLISP
+  -C#
 
 Data & Analytics: Pandas · NumPy · Power BI
 
