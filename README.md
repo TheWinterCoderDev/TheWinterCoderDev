@@ -29,14 +29,16 @@ Through academic, professional, and personal projects, I explore how programming
 
 # 🛠️ Technical Background
 
-## 🤖 Programming
+## 🤖 Core Programming
 
   - Python
   
   - MATLAB 
   
   - R
-  
+
+## ⚙️ Specific Programming
+
   - JavaScript
   
   - AutoLISP
@@ -47,7 +49,7 @@ Through academic, professional, and personal projects, I explore how programming
 
   - VBA
 
-## 🛠️ Data, Analytics & Civil Engineering 
+## 📊 Data & Analytics
 
   - Pandas (Library)
     
@@ -56,16 +58,18 @@ Through academic, professional, and personal projects, I explore how programming
   - Geopandas (Library)
 
   - BeautifulSoup (Library)
+
+  - Power BI (Software)
+
+  - Tableau (Software)
+
+## 🌍 GIS & Engineering
     
   - Numerical Methods
     
   - Computational Modelling
     
   - GIS (QGIS / ARCGIS)
-
-  - Power BI (Software)
-
-  - Tableau (Software)
 
   - Unreal Engine (Software)
 
