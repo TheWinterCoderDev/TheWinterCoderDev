@@ -26,7 +26,8 @@ Through academic, professional, and personal projects, I explore how programming
   
   - 🤖 Artificial Intelligence & Machine Learning
   
-  - 🛠️ Technical Background
+
+# 🛠️ Technical Background
 
 ## 🤖 Programming
 
