@@ -12,14 +12,15 @@ My main interests lie at the intersection of transportation engineering, computa
 
 Through academic, professional, and personal projects, I explore how programming and analytical tools can contribute to more efficient, innovative, and sustainable engineering solutions.
 
-🚀 Areas of Interest
-🚆 Railway Engineering & Transportation Systems
-📊 Data Analytics & Visualization
-🐍 Python Programming & Data Science
-🌍 Geospatial Analysis & GIS
-⚙️ Numerical Modelling & Engineering Simulations
-🤖 Artificial Intelligence & Machine Learning
-🛠️ Technical Background
+## 🚀 Areas of Interest
+
+  -🚆 Railway Engineering & Transportation Systems
+  -📊 Data Analytics & Visualization
+  -🐍 Python Programming & Data Science
+  -🌍 Geospatial Analysis & GIS
+  -⚙️ Numerical Modelling & Engineering Simulations
+  -🤖 Artificial Intelligence & Machine Learning
+  -🛠️ Technical Background
 
 Programming: Python · MATLAB · R
 
