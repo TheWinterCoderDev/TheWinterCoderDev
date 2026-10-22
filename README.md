@@ -14,36 +14,70 @@ Through academic, professional, and personal projects, I explore how programming
 
 ## 🚀 Areas of Interest
 
-  -🚆 Railway Engineering & Transportation Systems
+  - 🚆 Railway Engineering & Transportation Systems
   
-  -📊 Data Analytics & Visualization
+  - 📊 Data Analytics & Visualization
   
-  -🐍 Python Programming & Data Science
+  - 🐍 Python Programming & Data Science
   
-  -🌍 Geospatial Analysis & GIS
+  - 🌍 Geospatial Analysis & GIS
   
-  -⚙️ Numerical Modelling & Engineering Simulations
+  - ⚙️ Numerical Modelling & Engineering Simulations
   
-  -🤖 Artificial Intelligence & Machine Learning
+  - 🤖 Artificial Intelligence & Machine Learning
   
-  -🛠️ Technical Background
+  - 🛠️ Technical Background
 
 ## 🤖 Programming
 
-  -Python 
-  -MATLAB 
-  -R
-  -JavaScript
-  -AutoLISP
-  -C#
+  - Python
+  
+  - MATLAB 
+  
+  - R
+  
+  - JavaScript
+  
+  - AutoLISP
+  
+  - C#
 
-Data & Analytics: Pandas · NumPy · Power BI
+  - Visual Basic
 
-Engineering: Numerical Methods · Computational Modelling · GIS
+  - VBA
 
-📚 Currently Learning
-Microsoft Power BI Data Analyst — PL-300 (in preparation)
-Advanced Data Analytics & Data Modelling
-Software Development & GitHub Best Practices
+## 🛠️ Data, Analytics & Civil Engineering 
 
-Engineering the future, one line of code at a time. ❄️
+  - Pandas (Library)
+    
+  - NumPy (Library)
+    
+  - Geopandas (Library)
+
+  - BeautifulSoup (Library)
+    
+  - Numerical Methods
+    
+  - Computational Modelling
+    
+  - GIS (QGIS / ARCGIS)
+
+  - Power BI (Software)
+
+  - Tableau (Software)
+
+  - Unreal Engine (Software)
+
+  - AutoCAD
+
+  - Revit
+
+## 📚 Currently Learning
+
+  - Microsoft Power BI Data Analyst — PL-300 (in preparation)
+    
+  - Advanced Data Analytics & Data Modelling
+  
+  - Software Development & GitHub Best Practices
+
+Engineering the future, one line of code at a time. Ad Victoriam! 📊
