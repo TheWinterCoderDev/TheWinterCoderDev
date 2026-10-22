@@ -68,9 +68,9 @@ Through academic, professional, and personal projects, I explore how programming
 
   - Unreal Engine (Software)
 
-  - AutoCAD
+  - AutoCAD (Software)
 
-  - Revit
+  - Revit (Software)
 
 ## 📚 Currently Learning
 
