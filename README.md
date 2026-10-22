@@ -1,16 +1,35 @@
-## Hi there 👋
+## ❄️ The Winter Coder
 
-<!--
-**TheWinterCoderDev/TheWinterCoderDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! I'm Raúl 👋
 
-Here are some ideas to get you started:
+Civil/Railway Engineer | Data & Automation Lead | Transportation & Mobility Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a Civil Engineer specialized in Transport & Computation Engineering at the Universitat Politècnica de Catalunya (UPC), passionate about combining engineering, mobility, programming, and data analytics to solve real-world challenges.
+
+My main interests lie at the intersection of transportation engineering, computational modelling, and data-driven technologies, with a particular interest in railway systems.
+
+Through academic, professional, and personal projects, I explore how programming and analytical tools can contribute to more efficient, innovative, and sustainable engineering solutions.
+
+🚀 Areas of Interest
+🚆 Railway Engineering & Transportation Systems
+📊 Data Analytics & Visualization
+🐍 Python Programming & Data Science
+🌍 Geospatial Analysis & GIS
+⚙️ Numerical Modelling & Engineering Simulations
+🤖 Artificial Intelligence & Machine Learning
+🛠️ Technical Background
+
+Programming: Python · MATLAB · R
+
+Data & Analytics: Pandas · NumPy · Power BI
+
+Engineering: Numerical Methods · Computational Modelling · GIS
+
+📚 Currently Learning
+Microsoft Power BI Data Analyst — PL-300 (in preparation)
+Advanced Data Analytics & Data Modelling
+Software Development & GitHub Best Practices
+
+Engineering the future, one line of code at a time. ❄️
