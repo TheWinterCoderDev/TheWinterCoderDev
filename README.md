@@ -1,88 +1,132 @@
+
 # ❄️ The Winter Coder
 
-Hello World! I'm Raúl 👋
+### Engineering the Future through Code & Data
 
-Civil/Railway Engineer | Data & Automation Lead | Transportation & Mobility Analytics
+**Computational Engineering | Data & Automation | Railway Systems | Applied AI**
 
-Welcome to my GitHub profile!
+---
 
-I'm a Civil Engineer specialized in Transport & Computation Engineering at the Universitat Politècnica de Catalunya (UPC), passionate about combining engineering, mobility, programming, and data analytics to solve real-world challenges.
+## 👋 About Me
 
-My main interests lie at the intersection of transportation engineering, computational modelling, and data-driven technologies, with a particular interest in railway systems.
+I'm Raúl Galdeano Pazos, a final-year Civil Engineering student at the Universitat Politècnica de Catalunya (UPC), specializing in Transportation and Computational Engineering.
 
-Through academic, professional, and personal projects, I explore how programming and analytical tools can contribute to more efficient, innovative, and sustainable engineering solutions.
+Currently, I lead a team focused on programming and automation at TYLin, combining engineering expertise with computational tools, data analytics and software development.
 
-## 🚀 Areas of Interest
+My professional and research interests lie at the intersection of infrastructure, transportation systems, artificial intelligence and quantitative analysis.
 
-  - 🚆 Railway Engineering & Transportation Systems
-  
-  - 📊 Data Analytics & Visualization
-  
-  - 🐍 Python Programming & Data Science
-  
-  - 🌍 Geospatial Analysis & GIS
-  
-  - ⚙️ Numerical Modelling & Engineering Simulations
-  
-  - 🤖 Artificial Intelligence & Machine Learning
-  
+I aim to develop computational solutions that make engineering processes more efficient, intelligent and sustainable.
 
-# 🛠️ Technical Background
+---
 
-## 🤖 Core Programming
+## 🎯 Engineering & Research Domains
 
-  - Python
-  
-  - MATLAB 
-  
-  - R
+| Domain | Areas of Focus |
+|---|---|
+| 🚄 Transportation Engineering | Railway systems, mobility and infrastructure |
+| 💻 Computational Engineering | Numerical methods, modelling and simulation |
+| 📊 Data & Analytics | Data processing, visualization and decision support |
+| 🤖 Artificial Intelligence | Applied AI and engineering solutions |
+| 📈 Applied Econometrics | Statistical modelling and quantitative analysis |
+| ⚙️ Engineering Automation | Workflow optimization and process automation |
+| 🌍 Geospatial Engineering | GIS and spatial data analysis |
 
-## ⚙️ Specific Programming
+---
 
-  - JavaScript
-  
-  - AutoLISP
-  
-  - C#
+## 🔬 Featured Projects
 
-  - Visual Basic
+### ELAIA — Environmental Legal Assessment AI
 
-  - VBA
+An AI-based research initiative designed to assist civil engineers and construction professionals in assessing environmental impacts, regulatory risks and engineering alternatives during on-site operations.
 
-## 📊 Data & Analytics
+**Research objectives:**
 
-  - Pandas (Library)
-    
-  - NumPy (Library)
-    
-  - Geopandas (Library)
+- Environmental impact assessment.
+- Identification of potential legal and regulatory risks.
+- Evaluation of alternative engineering solutions.
+- AI-assisted decision support for construction professionals.
 
-  - BeautifulSoup (Library)
+🏛️ Presented at Posters in Brussels 2026, at the European Parliament.
 
-  - Power BI (Software)
+**Domains:** Artificial Intelligence · Civil Engineering · Environmental Engineering
 
-  - Tableau (Software)
+### Data Analysis Toolbox for Civil Engineers
 
-## 🌍 GIS & Engineering
-    
-  - Numerical Methods
-    
-  - Computational Modelling
-    
-  - GIS (QGIS / ARCGIS)
+A collection of Python-based tools and resources focused on data analysis applications within civil engineering.
 
-  - Unreal Engine (Software)
+[Explore repository](https://github.com/TheWinterCoderDev/Data-Analysis-Toolbox-for-Civil-Engineers)
 
-  - AutoCAD (Software)
+### MATLAB Survival Toolbox
 
-  - Revit (Software)
+An educational repository focused on numerical methods and computational engineering, designed to support engineering students.
 
-## 📚 Currently Learning
+[Explore repository](https://github.com/TheWinterCoderDev/MATLAB-Survival-Toolbox)
 
-  - Microsoft Power BI Data Analyst — PL-300 (in preparation)
-    
-  - Advanced Data Analytics & Data Modelling
-  
-  - Software Development & GitHub Best Practices
+---
 
-Engineering the future, one line of code at a time. Ad Victoriam! 📊
+## 🛠️ Technology Stack
+
+### Programming & Computational Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square)
+![AutoLISP](https://img.shields.io/badge/AutoLISP-CB2027?style=flat-square)
+
+### Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+
+### Engineering & Geospatial Technologies
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
+![Revit](https://img.shields.io/badge/Revit-186BFF?style=flat-square)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+
+### Development & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🏛️ Professional & Research Highlights
+
+- **TYLin** — Team leadership in programming and engineering automation.
+- **UPC — Barcelona School of Civil Engineering** — Transportation and Computational Engineering.
+- **European Parliament — Posters in Brussels 2026** — Presentation of the ELAIA research initiative.
+- **Advanced Econometrics** — Academic training in quantitative analysis and statistical modelling.
+
+---
+
+## 🚀 Current Development Focus
+
+- Applied artificial intelligence for infrastructure.
+- Railway and transportation analytics.
+- Advanced econometric modelling.
+- Engineering process automation.
+- Reproducible computational research.
+- Professional software development practices.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgaldeanopazos/)
+
+---
+
+> Engineering the future, one line of code at a time.
+
+**Ad Victoriam!** ❄️
+
